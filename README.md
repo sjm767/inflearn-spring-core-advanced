@@ -2,7 +2,7 @@
 
 - 강의명: 스프링 핵심 원리 - 고급편
 - 강사: 김영한님
-- 강의링크: https://inf.run/BiLj 
+- 강의링크: https://inf.run/BiLj
 - 강의내용 정리: [https://jaemni.tistory.com/category/%EC%9D%B8%ED%94%84%EB%9F%B0%20-%20%EC%8A%A4%ED%94%84%EB%A7%81%20%EC%99%84%EC%A0%84%20%EC%A0%95%EB%B3%B5%20%EC%8B%9C%EB%A6%AC%EC%A6%88/%EC%8A%A4%ED%94%84%EB%A7%81%20DB%202%ED%8E%B8%20-%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%A0%91%EA%B7%BC%20%ED%99%9C%EC%9A%A9%20%EA%B8%B0%EC%88%A0](https://jaemni.tistory.com/category/%EC%9D%B8%ED%94%84%EB%9F%B0%20-%20%EC%8A%A4%ED%94%84%EB%A7%81%20%EC%99%84%EC%A0%84%20%EC%A0%95%EB%B3%B5%20%EC%8B%9C%EB%A6%AC%EC%A6%88/%EC%8A%A4%ED%94%84%EB%A7%81%20%ED%95%B5%EC%8B%AC%20%EC%9B%90%EB%A6%AC%20-%20%EA%B3%A0%EA%B8%89%ED%8E%B8)
 
 강의순서
